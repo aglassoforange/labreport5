@@ -69,3 +69,9 @@ A description of what to edit to fix the bug
 Adding a space before 1.
 If you want to print out "it was 1", you need to change VAR to 1.
 
+
+# reflection
+One thing I learned is how to write script.
+I could automatically process many of my python code using conditions.
+For example, I could ran certain command line every hour, which is super useful.
+
