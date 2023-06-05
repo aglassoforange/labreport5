@@ -45,6 +45,8 @@ The student needs to add a space before 1.
 
 
 # 4.At the end, all the information needed about the setup including:
+
+![image info](lab5_2.png)
 The file & directory structure needed
 File is the bash script named bug.sh.
 The directory is my desktop directory.
