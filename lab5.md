@@ -41,7 +41,7 @@ There are space infront and behind the condition. As for you current code, there
 # 3.Another screenshot/terminal output showing what information the student got from trying that, and a clear description of what the bug is.
 ![image info](lab5_3.png)
 The bug is cuased by if [[1 -eq $VAR ]].
-The student needs to add a space before 1.
+The student needs to add a space before 1. It is how the if statement work in unix-like operating system's bash code.
 
 
 # 4.At the end, all the information needed about the setup including:
